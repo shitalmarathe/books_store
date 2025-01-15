@@ -6,7 +6,6 @@ import Hero from "@/components/Hero";
 
 function Home(){
   return (<div>
-     <Header />
       <Hero />
       <BookAdd />
       <BookList />
