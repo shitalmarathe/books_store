@@ -12,7 +12,7 @@ function Hero() {
           "md:text-4xl text-xl dark:text-white relative z-20 font-bold"
         )}
       >
-        Gretrix App
+        BOOKS STORE
       </h1>
       <p className="text-center mt-2 dark:text-neutral-300 relative z-20">
         Organize your reading list
